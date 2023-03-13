@@ -1,1 +1,1 @@
-# Project4-hadoop-mapreduce
+# project4-mapred
